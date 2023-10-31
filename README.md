@@ -1,5 +1,5 @@
 # INTERNSHIP-2023-ML-Predictive-Modeling-of-Multiple-Lung-Diseases-A-Machine-Learning-Approach-
-Don't forget to create api Json file in Kaggle it is a mustard should be for doing this
+Don't forget to create api Json file in Kaggle it should mandatory for doing this
 Predictive Modeling of Multiple Lung Diseases: A Machine Learning Approach
 
 Introduction
